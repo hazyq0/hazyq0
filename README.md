@@ -1,5 +1,5 @@
 # About Me:
-• Currently working on v0id, releasing soon.<br>• Looking to collaborate on projects revolving around Linux administration and shell scripting (Bash, Python).<br>• Currently learning  C/C++ in Linux operating environment and Linux kernel internals.<br>• Ask me about DSA (1700 rated on CodeChef, 300+ problems and 100+ on LeetCode)<br>
+• Currently working on v0id, releasing soon.<br>• Looking to collaborate on projects revolving around Linux administration and shell scripting (Bash, Python).<br>• Currently learning  C/C++ in Linux operating environment and Linux kernel internals.<br>• Ask me about DSA (1700 rated on CodeChef, 300+ problems and 100+ on LeetCode)<br> 📩 hazyq0@icloud.com
 
 
 # Tech Stack:
